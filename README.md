@@ -49,4 +49,4 @@ To push this project forward, insight from various linguists and related profess
 [List of languages by number of native speakers by Jroehl](https://en.wikipedia.org/wiki/File:List_of_languages_by_number_of_native_speakers.png) / [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ## This Project's License
-This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+This work is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/).
